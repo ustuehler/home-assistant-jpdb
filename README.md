@@ -10,6 +10,11 @@ An experimental [jpdb](https://jpdb.io/) integration for [Home Assistant](https:
 - Supports configuration via the [integrations](https://my.home-assistant.io/redirect/integrations/) dashboard
 - Supports installation as a [custom repository](https://hacs.xyz/docs/faq/custom_repositories) via [HACS](https://hacs.xyz/)
 
+## Changes
+
+All notable changes to this project will be documented in the file
+[CHANGELOG.md](CHANGELOG.md).
+
 ## Contributing
 
 See the [Contributing Guide](CONTRIBUTING.md) for instructions on how to set up
