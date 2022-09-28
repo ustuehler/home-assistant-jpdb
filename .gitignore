@@ -1,0 +1,6 @@
+# Python & pytest
+/.pytest_cache/
+*.pyc
+
+# Home Assistant
+/.homeassistant/

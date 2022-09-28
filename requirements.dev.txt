@@ -1,0 +1,2 @@
+homeassistant
+git+https://github.com/ustuehler/py-jpdb@v0.3.2

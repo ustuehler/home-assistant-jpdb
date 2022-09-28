@@ -1,0 +1,8 @@
+{
+  "name": "jpdb",
+  "domains": ["sensor"],
+  "iot_class": "Cloud Polling",
+  "render_readme": true,
+  "homeassistant": "2022.9.0",
+  "hacs": "1.6.0"
+}

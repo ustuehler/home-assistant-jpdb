@@ -1,0 +1,22 @@
+{
+  "config": {
+    "title": "Set up jpdb integration",
+    "step": {
+      "user": {
+        "title": "Sign-in to jpdb.io",
+        "description": "Please provide the username and password of an existing jpdb.io account.",
+        "data": {
+          "username": "Username",
+          "password": "Password"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid authentication credentials",
+      "unknown": "Unknown error occurred"
+    },
+    "abort": {
+      "already_configured": "This account is already configured"
+    }
+  }
+}
